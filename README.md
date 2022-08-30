@@ -12,7 +12,7 @@ Then i applied Elbow method to find the number of optimal clusters.
 
 ![Elbow method](https://user-images.githubusercontent.com/89645252/187374550-c55ffb03-ab8b-4096-b730-5d5474faf5a5.png)
 
- I have also appled Principal component analysis before applying any model. The data looks something like this if we visualize it in 3D space:
+ I have also applied Principal component analysis before applying any model. The data looks something like this if we visualize it in 3D space:
  
  ![3D Projection after Principal Component Analysis](https://user-images.githubusercontent.com/89645252/187375490-1679b2a6-838a-43e8-ab27-b5a688c81bc3.png)
 
