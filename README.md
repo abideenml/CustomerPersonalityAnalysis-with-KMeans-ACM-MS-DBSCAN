@@ -42,7 +42,10 @@ Density based Spatial Clustering:
 In the end, I have concluded with the following observations from the complete Agglomerative Clustering that:
 
 Cluster 0 are parents who have arounf 2 to 4 members in family and single parents are also included in this. This cluster consists of relatively older people.
+
 Cluster 1 are not parents. They are high income people with max 2 members in family and they span all ages.
+
 Cluster 2 are parents and are relatively younger with only one child. At max, there are 3 members in family.
+
 Cluster 3 are parents but are lower income group. They have max 5 people and min 3 people in family.
 
