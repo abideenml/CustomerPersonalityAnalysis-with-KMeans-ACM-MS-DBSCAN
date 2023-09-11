@@ -25,7 +25,7 @@ Average Agglomerative clustering with 4 clusters:
 
 ![Agglomerative clustering Average results](https://user-images.githubusercontent.com/89645252/187375250-da78501c-0564-474e-9657-873eb088f33b.png)
 
-K-Means clusters:
+K-Means clusters: 
 
 ![K-mean results](https://user-images.githubusercontent.com/89645252/187376272-7fe93c76-14a4-483b-9489-38d4629a4154.png)
 
