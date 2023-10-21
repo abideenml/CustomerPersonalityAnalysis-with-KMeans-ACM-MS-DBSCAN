@@ -1,13 +1,13 @@
 # Customer Personality Analysis with K-Means, Agglomerative, Mean Shift and Density-based Spatial Clustering 
 
-In this project, I have aggregated data of a grocery store and applied exploratory data analysis on it   to understand it. We can observe the effect of major features as shown below:
-
-
+In this project, initially data cleaning and feature engineering were conducted to refine the dataset, followed by dimensionality reduction using Principal Component Analysis (PCA) for improved insights. Through visualization and the utilization of the elbow method, I determined the optimal number of clusters for customer segmentation. Four distinct clustering methods K-means, DBSCAN, Mean Shift, and Agglomerative were applied to segment customers based on their purchasing behavior and preferences. Subsequently, I evaluated and profiled these customer clusters, providing valuable insights to the grocery store for targeted marketing, personalized shopping experiences, and improved customer engagement strategies.
+<br>
 
 <p align="center">
 <img src="readme_pics/Pipeline.png" width="700"/>
 </p>
 
+<br>
 
 ## Table of Contents
   * [What is Customer Personality Analysis?](#what-is-customer-personality-analysis?)
@@ -25,9 +25,10 @@ In this project, I have aggregated data of a grocery store and applied explorato
 
 ## What is Customer Personality Analysis?
 
+Customer personality analysis, also known as customer profiling, is a process that helps businesses understand their customers' preferences, needs, and motivations by categorizing them into distinct groups based on various traits, behaviors, and characteristics. Clustering methods, such as k-means, hierarchical clustering, or DBSCAN, can be used to group customers with similar traits and behaviors together, creating meaningful customer personas. The benefits of customer personality analysis include improved marketing strategies, enhanced customer engagement, product and service development, and segmentation and targeting. Clustering methods can also uncover hidden patterns and trends within customer data, allowing businesses to personalize their marketing efforts for each cluster and adapt to changes in customer behavior over time.
 
+## Clustering Techniques
 
-## Clsutering Techniques
 
 
 
