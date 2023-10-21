@@ -1,6 +1,17 @@
-# Customer Segmentation with K-Means, Agglomerative Clustering, Mean shift and Density-based spatial clustering 
+# Customer Personality Analysis with K-Means, Agglomerative, Mean Shift and Density-based Spatial Clustering 
 
-In this project, I have aggregated data of a  grocery store and applied exploratory data analysis on it   to understand it. We can observe the effect of major features as shown below:
+In this project, I have aggregated data of a grocery store and applied exploratory data analysis on it   to understand it. We can observe the effect of major features as shown below:
+
+
+<p align="center">
+<img src="readme_pics/Pipeline.png" width="700"/>
+</p>
+
+
+
+
+
+
 
 ![Effect of important features](https://user-images.githubusercontent.com/89645252/187375749-2a8be0d8-2778-4699-9c46-219a5d067bac.png)
 
