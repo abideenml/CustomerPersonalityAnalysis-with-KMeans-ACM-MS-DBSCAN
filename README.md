@@ -3,15 +3,35 @@
 In this project, I have aggregated data of a grocery store and applied exploratory data analysis on it   to understand it. We can observe the effect of major features as shown below:
 
 
+
 <p align="center">
 <img src="readme_pics/Pipeline.png" width="700"/>
 </p>
 
 
+## Table of Contents
+  * [What is Customer Personality Analysis?](#what-is-customer-personality-analysis?)
+  * [Clustering Techniques](#clustering-techniques)
+  * [Data Workflow](#data-workflow)
+  * [Observations](#observations)
+  * [Setup](#setup)
+  * [Todos](#todos)
+  * [Acknowledgements](#acknowledgements)
+  * [Citation](#citation)
+  * [Connect with me](#connect-with-me)
+
+  <br>
+
+
+## What is Customer Personality Analysis?
 
 
 
+## Clsutering Techniques
 
+
+
+## Data Workflow
 
 ![Effect of important features](https://user-images.githubusercontent.com/89645252/187375749-2a8be0d8-2778-4699-9c46-219a5d067bac.png)
 
@@ -48,7 +68,7 @@ Density based Spatial Clustering:
 
 ![DBSCAN results](https://user-images.githubusercontent.com/89645252/187376619-48c0bb52-c3b5-4f42-88f6-1be1230f3c14.png)
 
-> **Observations**
+## Observations
 
 In the end, I have concluded with the following observations from the complete Agglomerative Clustering that:
 
@@ -60,3 +80,69 @@ Cluster 2 are parents and are relatively younger with only one child. At max, th
 
 Cluster 3 are parents but are lower income group. They have max 5 people and min 3 people in family.
 
+
+
+
+## Setup
+
+So we talked about what telephone based social engineering attacks are, and what they can do for you (among other things). <br/>
+Let's get this thing running! Follow the next steps:
+
+1. `git clone https://github.com/abideenml/CustomerPersonalityAnalysis-with-KMeans-ACM-MS-DBSCAN`
+2. Navigate into project directory `cd path_to_repo`
+3. Create a new venv environment and run `pip install -r requirements.txt`
+4. Run the `Clustering.ipynb` file.
+
+That's it! <br/>
+
+
+
+
+
+## Todos:
+
+Finally there are a couple more todos which I'll hopefully add really soon:
+* Explore how these clustering models perform on huge amounts of data.
+* Productionize these models to get weekly reports regarding the customers.
+
+
+
+
+
+
+## Acknowledgements
+
+I found these resources useful (while developing this one):
+
+* [Clustering | Introduction, Different Methods, and Applications](https://www.analyticsvidhya.com/blog/2016/11/an-introduction-to-clustering-and-different-methods-of-clustering/)
+* [Understanding Mean Shift Clustering and Implementation with Python](https://towardsdatascience.com/understanding-mean-shift-clustering-and-implementation-with-python-6d5809a2ac40)
+
+
+
+
+## Citation
+
+If you find this code useful, please cite the following:
+
+```
+@misc{Zain2023CustomerPersonalityAnalysis,
+  author = {Zain, Abideen},
+  title = {customer-personality-analysis},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/abideenml/CustomerPersonalityAnalysis-with-KMeans-ACM-MS-DBSCAN}},
+}
+```
+
+## Connect with me
+
+If you'd love to have some more AI-related content in your life :nerd_face:, consider:
+
+* Connect and reach me on [LinkedIn](https://www.linkedin.com/in/zaiinulabideen/) and [Twitter](https://twitter.com/zaynismm)
+* Follow me on 📚 [Medium](https://medium.com/@zaiinn440)
+* Subscribe to my 📢 weekly [AI newsletter](https://rethinkai.substack.com/)!
+
+## Licence
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/abideenml/CustomerPersonalityAnalysis-with-KMeans-ACM-MS-DBSCAN/blob/master/LICENCE)
